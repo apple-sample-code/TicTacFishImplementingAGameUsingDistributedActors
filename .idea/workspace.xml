@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49227009-35e5-41f6-b527-ed7235584ac4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Step 1 Distributed yet still Local Bot/App/TicTacFish/TicTacFish/MainMenuView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Step 1 Distributed yet still Local Bot/App/TicTacFish/TicTacFish/MainMenuView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step 3 Distributed Local Network Player/App/TicTacFish/TicTacFish/MainMenuView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Step 3 Distributed Local Network Player/App/TicTacFish/TicTacFish/MainMenuView.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Swift File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Step 2 Distributed Remote Bot/App/TicTacFish/TicTacFish/GameView.swift" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Step 2 Distributed Remote Bot/App/TicTacFish/TicTacFish/MainMenuView.swift" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Step 2 Distributed Remote Bot/Server/Package.swift" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Step 2 Distributed Remote Bot/Server/Sources/TicTacFishServer/boot.swift" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28dTPFBOWgQjofTKfrjikvynxVV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ktoso/code/swift-distributed-actors-wwdc2022/Source/Step 1 Distributed yet still Local Bot&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Step 1 Distributed yet still Local Bot" />
+      <recent name="$PROJECT_DIR$/Step 0 Local Only" />
+      <recent name="$PROJECT_DIR$/Step 2 Distributed Remote Bot/Shared/Sources/TicTacFishShared/ActorSystems/WebSocket" />
+      <recent name="$PROJECT_DIR$/Step 3 Distributed Local Network Player/Shared/Sources/TicTacFishShared/ActorSystems/LocalNetwork" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49227009-35e5-41f6-b527-ed7235584ac4" name="Changes" comment="" />
+      <created>1651545436606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651545436606</updated>
+    </task>
+    <task id="LOCAL-00001" summary="remove complete readme; not approved to share &quot;full README&quot; and must do &quot;lite README&quot;">
+      <created>1653446720715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653446720715</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed session id">
+      <created>1653447280835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653447280835</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove complete readme; not approved to share &quot;full README&quot; and must do &quot;lite README&quot;" />
+    <MESSAGE value="fixed session id" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed session id" />
+  </component>
+</project>
